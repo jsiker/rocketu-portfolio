@@ -30,9 +30,10 @@ body {
 }
 
 body {
-    color: #fff;
+    color: gold;
     text-align: center;
     text-shadow: 0 1px 3px rgba(0, 0, 0, .5);
+    background-color: green;
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
@@ -81,8 +82,8 @@ body {
     padding-left: 0;
     font-size: 16px;
     font-weight: bold;
-    color: #fff; /* IE8 proofing */
-    color: rgba(255, 255, 255, .75);
+    color: gold; /* IE8 proofing */
+    color: gold;
     border-bottom: 2px solid transparent;
 }
 
@@ -96,7 +97,7 @@ body {
 .masthead-nav > .active > a,
 .masthead-nav > .active > a:hover,
 .masthead-nav > .active > a:focus {
-    color: #fff;
+    color: #ffff00;
     border-bottom-color: #fff;
 }
 
